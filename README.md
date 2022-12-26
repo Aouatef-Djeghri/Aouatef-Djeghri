@@ -1,7 +1,8 @@
 # Hello World 👋
 
-- 🔭 I’m currently working on some awesome freelance projects.
-- 🌱 I’m currently learning Typescript and TailwindCSS.
+- 🕊️ I’m currently working on some awesome freelance projects using **React** and **NextJs**.
+- 🔭 I’m currently learning **Typescript**, **TailwindCSS** and refreshing/improving my **Docker** skills.
+- 🏃‍♀️ Sharpening my skills while preparing for interviews to hit the ground running.
 - 📫 Reach me on: <br/>
 <a href="https://www.linkedin.com/in/aouatef-djeghri/" title="Linkedin"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" height="50" width="50"></a>
  <a href="mailto:aouatefdjeghri5@gmail.com" title="Gmail"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" height="20" width="20"></a>
