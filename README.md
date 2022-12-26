@@ -41,5 +41,5 @@
 <a href="https://www.typescriptlang.org/" title="Typescript"><img  src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" height="50" width="50"></a>
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" width="50"></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker.svg" alt="Docker" height="50" width="50"></a>
-
+<a href="https://www.nginx.com/" title="NGINX"><img src="https://github.com/get-icon/geticon/raw/master/icons/nginx.svg" alt="NGINX" height="50" width="50"></a>
 
