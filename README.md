@@ -6,7 +6,6 @@
 - 📫 Reach me on: <br/>
 <a href="https://www.linkedin.com/in/aouatef-djeghri/" title="Linkedin"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" height="50" width="50"></a>
  <a href="mailto:aouatefdjeghri5@gmail.com" title="Gmail"><img align="center" src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Gmail" height="20" width="20"></a>
-- 👩‍🦱 Pronouns: she/her.
 
 
 <!-- Top Languages Card -->
